@@ -623,13 +623,11 @@ const bannerGames = {
     links: [
       {
         linkType: 'play',
-        link:
-          'https://www.gamesalia.com/apx-legion/',
+        link: 'https://www.gamesalia.com/apx-legion/',
       },
       {
         linkType: 'Itch.io (Windows)',
-        link:
-          'https://gamesalia.itch.io/a-pixel-adventure-legion',
+        link: 'https://gamesalia.itch.io/a-pixel-adventure-legion',
       },
     ],
   },
@@ -725,7 +723,7 @@ export default class EducationPage extends React.Component {
               t={t}
               game={bannerGames.escapeFromTheCursedCity}
             />
-            <GenericGameBanner t={t} game={bannerGames. apixelAdventureLegion />
+            <GenericGameBanner t={t} game={bannerGames.apixelAdventureLegion} />
             <TransparentContainer>
               <BigTitle>And tons of other games!</BigTitle>
               <Spacer height="30px" />
