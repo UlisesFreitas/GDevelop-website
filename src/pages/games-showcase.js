@@ -617,20 +617,20 @@ const bannerGames = {
     title: 'A Pixel Adventure Legion',
     author: 'Ulises Freitas',
     descriptionParagraphs: [
-      'A castle in the middle of nowhere, a princess in danger, and of course a brand new hero to rescu her. Enjoy the most epic adventure inside and outside the great castle.',
-     'All kind of monsters are trying to stop you, but you brave hero must fulfill your promise and rescue the princess',
+      'A castle in the middle of nowhere, a princess in danger, and of course a brand new hero to rescue her. Enjoy the most epic adventure inside and outside the great castle.',
+      'All kind of monsters are trying to stop you, but as a brave hero, you must fulfill your promise and rescue the princess.',
     ],
     links: [
-     {
+      {
         linkType: 'play',
         link:
-        'https://www.gamesalia.com/apx-legion/',
-        },
-        {
-        link:
-        'https://gamesalia.itch.io/a-pixel-adventure-legion',
+          'https://www.gamesalia.com/apx-legion/',
+      },
+      {
         linkType: 'Itch.io (Windows)',
-        },
+        link:
+          'https://gamesalia.itch.io/a-pixel-adventure-legion',
+      },
     ],
   },
 };
